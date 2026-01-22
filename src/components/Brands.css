@@ -17,14 +17,31 @@
   padding: 15px;
   width: 200px;
   background-color: #f9f9f9;
-  transition: transform 0.2s;
-}
-
-.brand-card:hover {
-  transform: scale(1.05);
+  cursor: default;
 }
 
 .discount-code {
   font-weight: bold;
-  color: #007BFF;
+  color: #646cff;
+  margin-top: 6px;
+}
+
+.brand-link {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 8px 12px;
+  background-color: #263443;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background-color 0.2s, transform 0.15s, box-shadow 0.15s;
+  cursor: pointer;
+}
+
+.brand-link:hover {
+  background-color: #333;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
 }

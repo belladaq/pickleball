@@ -5,16 +5,7 @@
     "location": "Plainville, CT",
     "category": "Women's Singles (4.0 and Above)",
     "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-
-  {
-    "tournament": "Camp Pickleball's 1st Anniversary Tournament",
-    "date": "2025-09-26",
-    "location": "Plainville, CT",
-    "category": "Women's Singles (4.0 and Above)",
-    "result": "Win",
+    "score": "11-2",
     "type": "Singles",
     "partner": null
   },
@@ -24,126 +15,20 @@
     "location": "Plainville, CT",
     "category": "Women's Singles (4.0 and Above)",
     "result": "Win",
+    "score": "11-1",
     "type": "Singles",
     "partner": null
   },
   {
-    "tournament": "PickleballSuperstore.com APP Philadelphia Open",
-    "date": "2023-08-25",
-    "location": "Berwyn, PA",
-    "category": "Womens Singles 3.5,4.0 - 50+,60+",
+    "tournament": "Camp Pickleball's 1st Anniversary Tournament",
+    "date": "2025-09-26",
+    "location": "Plainville, CT",
+    "category": "Women's Singles (4.0 and Above)",
     "result": "Win",
+    "score": "11-10",
     "type": "Singles",
     "partner": null
   },
-  {
-    "tournament": "PickleballSuperstore.com APP Philadelphia Open",
-    "date": "2023-08-25",
-    "location": "Berwyn, PA",
-    "category": "Womens Singles 3.5,4.0 - 50+,60+",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "PickleballSuperstore.com APP Philadelphia Open",
-    "date": "2023-08-25",
-    "location": "Berwyn, PA",
-    "category": "Womens Singles 3.5,4.0 - 50+,60+",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "NP Kitch New Jersey Open $15k",
-    "date": "2023-08-13",
-    "location": "Hamilton, NJ",
-    "category": "Womens Singles Skill: 4.0+",
-    "result": "Loss",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "NP Kitch New Jersey Open $15k",
-    "date": "2023-08-13",
-    "location": "Hamilton, NJ",
-    "category": "Womens Singles Skill: 4.0+",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "WPT Boston Challenger I",
-    "date": "2023-07-09",
-    "location": "Columbus, OH",
-    "category": "Womens Singles 4.0,4.5,5.0",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "WPT Boston Challenger I",
-    "date": "2023-07-09",
-    "location": "Columbus, OH",
-    "category": "Womens Singles 4.0,4.5,5.0",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "WPT Boston Challenger I",
-    "date": "2023-07-09",
-    "location": "Columbus, OH",
-    "category": "Womens Singles 4.0,4.5,5.0",
-    "result": "Loss",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "WPT Boston Challenger I",
-    "date": "2023-07-09",
-    "location": "Columbus, OH",
-    "category": "Womens Singles 4.0,4.5,5.0",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "WPT Boston Challenger I",
-    "date": "2023-07-09",
-    "location": "Columbus, OH",
-    "category": "Womens Singles 4.0,4.5,5.0",
-    "result": "Loss",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "WPT Boston Challenger I",
-    "date": "2023-07-09",
-    "location": "Columbus, OH",
-    "category": "Womens Singles 4.0,4.5,5.0",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "New Canaan Racquet Club Spring Fling",
-    "date": "2023-06-02",
-    "location": "New Canaan, CT",
-    "category": "Womens Singles Skill: (3.5 And Above)",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  },
-  {
-    "tournament": "New Canaan Racquet Club Spring Fling",
-    "date": "2023-06-02",
-    "location": "New Canaan, CT",
-    "category": "Womens Singles Skill: (3.5 And Above)",
-    "result": "Win",
-    "type": "Singles",
-    "partner": null
-  }, 
 
   {
     "tournament": "Life Time Fall Classic- Westchester NY",
@@ -151,6 +36,7 @@
     "location": "West Harrison, NY",
     "category": "Mixed Doubles Skill 4.5+",
     "result": "Win",
+    "score": "11-5",
     "type": "Mixed Doubles",
     "partner": "Robert Ferrante"
   },
@@ -160,6 +46,7 @@
     "location": "West Harrison, NY",
     "category": "Mixed Doubles Skill 4.5+",
     "result": "Loss",
+    "score": "2-11",
     "type": "Mixed Doubles",
     "partner": "Robert Ferrante"
   },
@@ -169,6 +56,7 @@
     "location": "West Harrison, NY",
     "category": "Mixed Doubles Skill 4.5+",
     "result": "Win",
+    "score": "11-5",
     "type": "Mixed Doubles",
     "partner": "Robert Ferrante"
   },
@@ -179,6 +67,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Win",
     "type": "Doubles",
+    "score": "11-8",
     "partner": "Lucy Baker"
   },
   {
@@ -188,6 +77,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Loss",
     "type": "Doubles",
+    "score": "3-11",
     "partner": "Lucy Baker"
   },
   {
@@ -197,6 +87,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Win",
     "type": "Doubles",
+    "score": "11-3",
     "partner": "Lucy Baker"
   },
   {
@@ -206,6 +97,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Win",
     "type": "Doubles",
+    "score": "11-4",
     "partner": "Lucy Baker"
   },
   {
@@ -215,6 +107,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Loss",
     "type": "Doubles",
+    "score": "10-11",
     "partner": "Lucy Baker"
   },
   {
@@ -224,6 +117,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Win",
     "type": "Doubles",
+    "score": "11-3",
     "partner": "Lucy Baker"
   },
   {
@@ -233,6 +127,7 @@
     "category": "Womens Doubles Skill: 4.0 And Above",
     "result": "Win",
     "type": "Doubles",
+    "score": "11-6",
     "partner": "Lucy Baker"
   },
   {
@@ -242,6 +137,7 @@
     "category": "Womens Doubles",
     "result": "Win",
     "type": "Doubles",
+    "score": "21-19",
     "partner": "Debbie Drum"
   },
   {
@@ -250,6 +146,7 @@
     "location": "New York, NY",
     "category": "Womens Doubles",
     "result": "Win",
+    "score": "21-17",
     "type": "Doubles",
     "partner": "Jossi Campos"
   },
@@ -259,6 +156,7 @@
     "location": "New York, NY",
     "category": "Womens Doubles",
     "result": "Loss",
+    "score": "17-21",
     "type": "Doubles",
     "partner": "Alyssa A Latham"
   },
@@ -269,6 +167,7 @@
     "category": "Womens Doubles",
     "result": "Win",
     "type": "Doubles",
+    "score": "22-20",
     "partner": "Sarah Anvery"
   }, 
 
@@ -279,113 +178,126 @@
     "category": "Mixed Senior Pro Doubles",
     "result": "Loss",
     "type": "Mixed Doubles",
+    "score": "11-15",
     "partner": "Brooks Brooks"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-29",
     "location": "New Canaan, CT",
     "category": "Mixed Doubles Skill: 4.5",
     "result": "Loss",
+    "score": "11-15",
     "type": "Mixed Doubles",
     "partner": "Phil Yu"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-29",
     "location": "New Canaan, CT",
     "category": "Mixed Doubles Skill: 4.5",
     "result": "Win",
+    "score": "15-10",
     "type": "Mixed Doubles",
     "partner": "Phil Yu"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-29",
     "location": "New Canaan, CT",
     "category": "Mixed Doubles Skill: 4.5",
     "result": "Win",
+    "score": "15-4",    
     "type": "Mixed Doubles",
     "partner": "Phil Yu"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-29",
     "location": "New Canaan, CT",
     "category": "Mixed Doubles Skill: 4.5",
     "result": "Loss",
+    "score": "15-12",
     "type": "Mixed Doubles",
     "partner": "Phil Yu"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Loss",
+    "score": "7-11",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Win",
+    "score": "11-8",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Win",
+    "score": "11-3",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Loss",
+    "score": "8-11",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Win",
+    "score": "10-11",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Win",
+    "score": "11-5",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Win",
+    "score": "11-3",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
   {
-    "tournament": "2024 Connecticut Pickleball Open",
+    "tournament": "Connecticut Pickleball Open",
     "date": "2024-12-28",
     "location": "New Canaan, CT",
     "category": "Womens Doubles Skill: 4.5",
     "result": "Win",
+    "score": "11-2",
     "type": "Doubles",
     "partner": "Cynthia Eisen"
   },
@@ -396,6 +308,7 @@
     "category": "Mixed Doubles Skill: 4.0 And Above",
     "result": "Win",
     "type": "Mixed Doubles",
+    "score": "11-5, 11-4",
     "partner": "David Rodrigues"
   },
   {
@@ -404,6 +317,7 @@
     "location": "Stamford, CT",
     "category": "Mixed Doubles Skill: 4.0 And Above",
     "result": "Loss",
+    "score": "7-15",
     "type": "Mixed Doubles",
     "partner": "David Rodrigues"
   },
@@ -413,6 +327,7 @@
     "location": "Stamford, CT",
     "category": "Mixed Doubles Skill: 4.0 And Above",
     "result": "Win",
+    "score": "11-5",
     "type": "Mixed Doubles",
     "partner": "David Rodrigues"
   },
@@ -422,6 +337,7 @@
     "location": "Stamford, CT",
     "category": "Mixed Doubles Skill: 4.0 And Above",
     "result": "Win",
+    "score": "11-3",
     "type": "Mixed Doubles",
     "partner": "David Rodrigues"
   },
@@ -431,6 +347,7 @@
     "location": "Stamford, CT",
     "category": "Mixed Doubles Skill: 4.0 And Above",
     "result": "Win",
+    "score": "11-8",
     "type": "Mixed Doubles",
     "partner": "David Rodrigues"
   },
@@ -440,44 +357,290 @@
     "location": "Stamford, CT",
     "category": "Mixed Doubles Skill: 4.0 And Above",
     "result": "Win",
+    "score": "11-9",
     "type": "Mixed Doubles",
     "partner": "David Rodrigues"
-  },
+  },  
   {
-    "tournament": "NPL Houston ∙ Session 3",
+    "tournament": "NPL Houston",
     "date": "2024-09-15",
     "location": "Houston, TX",
-    "category": "Womens Doubles",
+    "category": "Session 3 Womens Doubles",
     "result": "Win",
-    "type": "Doubles",
-    "partner": "Seyhan Hunter"
-  },
-  {
-    "tournament": "NPL Houston ∙ Session 3",
-    "date": "2024-09-15",
-    "location": "Houston, TX",
-    "category": "Mixed Doubles",
-    "result": "Win",
-    "type": "Mixed Doubles",
-    "partner": "Brian Levine"
-  },
-  {
-    "tournament": "NPL Houston ∙ Session 1",
-    "date": "2024-09-14",
-    "location": "Houston, TX",
-    "category": "Womens Doubles",
-    "result": "Win",
+    "score": "11-9",
     "type": "Doubles",
     "partner": "Suzanne Leblang"
   },
   {
-    "tournament": "NPL Houston ∙ Session 1",
+    "tournament": "NPL Houston",
+    "date": "2024-09-15",
+    "location": "Houston, TX",
+    "category": "Session 3 Mixed Doubles",
+    "result": "Win",
+    "score": "11-7",
+    "type": "Doubles",
+    "partner": "Brian Levine"
+  },
+  {
+    "tournament": "NPL Houston",
     "date": "2024-09-14",
     "location": "Houston, TX",
-    "category": "Mixed Doubles",
+    "category": "Session 1 Womens Doubles",
     "result": "Win",
-    "type": "Mixed Doubles",
+    "score": "11-8",
+    "type": "Doubles",
+    "partner": "Suzanne Leblang"
+  },
+  {
+    "tournament": "NPL Houston",
+    "date": "2024-09-14",
+    "location": "Houston, TX",
+    "category": "Session 1 Mixed Doubles",
+    "result": "Win",
+    "score": "11-8",
+    "type": "Doubles",
     "partner": "Brian Levine"
+  },
+  {
+    "tournament": "NPL Kansas City PickleCon",
+    "date": "2024-08-10",
+    "location": "Kansas City, MO",
+    "category": "Session 1 Womens Doubles",
+    "result": "Loss",
+    "score": "9-11",
+    "type": "Doubles",
+    "partner": "Suzanne Leblang"
+  },
+  {
+    "tournament": "NPL Kansas City PickleCon",
+    "date": "2024-08-10",
+    "location": "Kansas City, MO",
+    "category": "Session 1 Mixed Doubles",
+    "result": "Win",
+    "score": "11-5",
+    "type": "Doubles",
+    "partner": "Mark Redding"
+  },
+  {
+    "tournament": "NPL Chicago Pickle Haus",
+    "date": "2024-05-19",
+    "location": "Chicago, IL",
+    "category": "Session 4 Womens Doubles",
+    "result": "Loss",
+    "score": "11-8",
+    "type": "Doubles",
+    "partner": "Pam Lippy"
+  },
+  {
+    "tournament": "NPL Chicago Pickle Haus",
+    "date": "2024-05-19",
+    "location": "Chicago, IL",
+    "category": "Session 4 Mixed Doubles",
+    "result": "Win",
+    "score": "11-10",
+    "type": "Doubles",
+    "partner": "Bryan Shapiro"
+  },
+  {
+    "tournament": "NPL Chicago Pickle Haus",
+    "date": "2024-05-19",
+    "location": "Chicago, IL",
+    "category": "Session 3 Womens Doubles",
+    "result": "Win",
+    "score": "11-10",
+    "type": "Doubles",
+    "partner": "Pam Lippy"
+  },
+   
+  {
+    "tournament": "PickleballSuperstore.com APP Philadelphia Open",
+    "date": "2023-08-25",
+    "location": "Berwyn, PA",
+    "category": "Womens Singles 3.5,4.0 - 50+,60+",
+    "result": "Win",
+    "score": "11-7",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "PickleballSuperstore.com APP Philadelphia Open",
+    "date": "2023-08-25",
+    "location": "Berwyn, PA",
+    "category": "Womens Singles 3.5,4.0 - 50+,60+",
+    "result": "Win",
+    "score": "11-3",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "PickleballSuperstore.com APP Philadelphia Open",
+    "date": "2023-08-25",
+    "location": "Berwyn, PA",
+    "category": "Womens Singles 3.5,4.0 - 50+,60+",
+    "result": "Win",
+    "score": "11-7",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "NP Kitch New Jersey Open $15k",
+    "date": "2023-08-13",
+    "location": "Hamilton, NJ",
+    "category": "Womens Singles Skill: 4.0+",
+    "result": "Loss",
+    "score": "15-9",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "NP Kitch New Jersey Open $15k",
+    "date": "2023-08-11",
+    "location": "Hamilton, NJ",
+    "category": "Womens Doubles Skill: 4.0+",
+    "result": "Win",
+    "score": "16-14",
+    "type": "Doubles",
+    "partner": "Estephany Tan"
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-09",
+    "location": "Columbus, OH",
+    "category": "Womens Singles 4.0,4.5,5.0",
+    "result": "Win",
+    "score": "13-11",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-09",
+    "location": "Columbus, OH",
+    "category": "Womens Singles 4.0,4.5,5.0",
+    "result": "Win",
+    "score": "11-7",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-09",
+    "location": "Columbus, OH",
+    "category": "Womens Singles 4.0,4.5,5.0",
+    "result": "Loss",
+    "score": "10-12",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-09",
+    "location": "Columbus, OH",
+    "category": "Womens Singles 4.0,4.5,5.0",
+    "result": "Win",
+    "score": "11-1",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-09",
+    "location": "Columbus, OH",
+    "category": "Womens Singles 4.0,4.5,5.0",
+    "result": "Loss",
+    "score": "4-11",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-09",
+    "location": "Columbus, OH",
+    "category": "Womens Singles 4.0,4.5,5.0",
+    "result": "Win",
+    "score": "11-4",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "WPT Boston Challenger I",
+    "date": "2023-07-08",
+    "location": "Columbus, OH",
+    "category": "Mixed Doubles 4.5",
+    "result": "Win",
+    "score": "11-6",
+    "type": "Doubles",
+    "partner": "Michael Tow"
+  },
+  {
+    "tournament": "New Canaan Racquet Club Spring Fling",
+    "date": "2023-06-02",
+    "location": "New Canaan, CT",
+    "category": "Womens Singles Skill: (3.5 And Above)",
+    "result": "Win",
+    "score": "15-5",
+    "type": "Singles",
+    "partner": null
+  },
+  {
+    "tournament": "New Canaan Racquet Club Spring Fling",
+    "date": "2023-06-02",
+    "location": "New Canaan, CT",
+    "category": "Womens Singles Skill: (3.5 And Above)",
+    "result": "Win",
+    "score": "15-1",
+    "type": "Singles",
+    "partner": null
+  }, 
+  {
+    "tournament": "Connecticut Pickleball Open",
+    "date": "2022-12-31",
+    "location": "New Canaan, CT",
+    "category": "Mixed Doubles Skill: (4.5 And Above)",
+    "result": "Win",
+    "score": "11-3",
+    "type": "Doubles",
+    "partner": "David Rodrigues"
+  },
+  {
+    "tournament": "Connecticut Pickleball Open",
+    "date": "2022-12-31",
+    "location": "New Canaan, CT",
+    "category": "Mixed Doubles Skill: (4.5 And Above)",
+    "result": "Win",
+    "score": "11-9",
+    "type": "Doubles",
+    "partner": "David Rodrigues"
+  },
+  {
+    "tournament": "Connecticut Pickleball Open",
+    "date": "2022-12-31",
+    "location": "New Canaan, CT",
+    "category": "Mixed Doubles Skill: (4.5 And Above)",
+    "result": "Loss",
+    "score": "9-11",
+    "type": "Doubles",
+    "partner": "David Rodrigues"
+  },
+  {
+    "tournament": "Connecticut Pickleball Open",
+    "date": "2022-12-31",
+    "location": "New Canaan, CT",
+    "category": "Mixed Doubles Skill: (4.5 And Above)",
+    "result": "Win",
+    "score": "11-1",
+    "type": "Doubles",
+    "partner": "David Rodrigues"
+  }, 
+  {
+    "tournament": "Connecticut Grand Prix Pickleball",
+    "date": "2022-02-19",
+    "location": "New Canaan, CT",
+    "category": "Womens Doubles Skill: (4.0 And Above)",
+    "result": "Win",
+    "score": "11-10",
+    "type": "Doubles",
+    "partner": "Christina Hare"
   }
 
 ]

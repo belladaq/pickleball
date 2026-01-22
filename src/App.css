@@ -18,25 +18,47 @@
 
 .site-header h1 {
   margin: 0;
-  color: rgb(15, 12, 36);
+  color: #213547;
 }
 
 .navigation {
   width: 100%;
   background-color: #263443;
-  border-bottom: 2px solid #e5e7eb;
+  border-bottom: 2px solid #ffffff;
 }
 
 .navigation ul {
-  list-style: none;     /* remove bullets */
-  display: flex;        /* horizontal layout */
+  list-style: none;
+  display: flex; 
   gap: 32px;
   margin: 0;
   padding: 16px 32px;
 }
 
-.navigation li {
+.navigation li a {
   color: white;
   font-weight: 500;
   cursor: pointer;
+}
+
+.contact, .intro {
+  padding: 20px;
+  text-align: center;
+}
+
+.gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+  padding: 0;
+}
+
+.gallery img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 0;
+  display: block;
 }
