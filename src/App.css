@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.site-header {
+  width: 100%;
+  background-color: #d7e1eb;
+  border-bottom: 2px solid #1f2933;
+  text-align: center;
+}
+
+.header-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 32px;
+}
+
+.site-header h1 {
+  margin: 0;
+  color: rgb(15, 12, 36);
+}
+
+.navigation {
+  width: 100%;
+  background-color: #263443;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.navigation ul {
+  list-style: none;     /* remove bullets */
+  display: flex;        /* horizontal layout */
+  gap: 32px;
+  margin: 0;
+  padding: 16px 32px;
+}
+
+.navigation li {
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}

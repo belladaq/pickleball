@@ -1,0 +1,32 @@
+.filters {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.tournament-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.tournament-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.win {
+  color: green;
+  font-weight: bold;
+}
+
+.loss {
+  color: crimson;
+  font-weight: bold;
+}
+
+.filters button {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
