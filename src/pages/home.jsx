@@ -42,6 +42,33 @@ function Home() {
       <Brands></Brands>        
     </section>
 
+    <div className='media'>
+
+        <h2>Media Links</h2>
+        <div className='mediaGrid'>
+            
+                <div className='pod'>
+                    <h3>CourtGirl Talk </h3>
+                    <p>
+                        A podcast designed to bring tennis lifestyle tips, advice, and trends to passionate players on and off the court.
+                        Created by CourtGirl Brand, it aims to connect tennis lovers through the joy of gifting and to become a part of forging lifelong
+                        friendships.
+                    </p>
+                    <p><a href='https://open.spotify.com/episode/7x8weaaUaAWvWzj9nUbh8h?si=d8d201ca74b74ab2 '>Listen to the first Spotify podcast episode here!</a> </p>
+                </div>
+
+                <div className='pod'>
+                    <h3>Wilton Continuing Education</h3>
+                    <p>
+                        Listen to Yvonne discuss her deep enthusiasm for the game, what continues to inspire her as both a player and coach, 
+                        and the teaching methods she uses to effectively connect with players across a wide range of ages and skill levels.
+                    </p>
+                    <p><a href='https://open.spotify.com/episode/6d0ycWMYBcyxd0mbKPRYqK?si=25a163123b4c44ec '> Listen to the Spotify podcast episode here!</a></p>
+                </div> 
+        </div>
+           
+    </div>
+
     <div className='main' id='contact'>
         <section className='contact'>
         <h2>Contact Information</h2>
