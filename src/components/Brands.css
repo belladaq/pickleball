@@ -9,6 +9,7 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .brand-card {
@@ -16,7 +17,7 @@
   border-radius: 10px;
   padding: 15px;
   width: 200px;
-  background-color: #f9f9f9;
+  background-color: #ffff;
   cursor: default;
 }
 
@@ -44,4 +45,11 @@
   background-color: #333;
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+}
+
+.brand-logo {
+  max-width: 150px;  /* adjust as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto 12px; /* center above brand name */
 }

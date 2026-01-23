@@ -9,7 +9,8 @@ function Brands() {
     descript: "Pickleball paddles, clothing, gear and more",
     description: "Use code for 10% off in giftcards",
     url: "https://www.selkirk.com",
-    autoApply: "https://www.selkirk.com/discount/ADV-YVONNED"
+    autoApply: "https://www.selkirk.com/discount/ADV-YVONNED",
+    logo: "/images/selkirk.jpeg"
   },
   {
     name: "PickleLuxe",
@@ -17,7 +18,8 @@ function Brands() {
     descript: "High quality Pickleball jewelry",
     description: "Use code for 10% off and free shipping",
     url: "https://www.pickleluxe.com",
-    autoApply: "https://www.pickleluxe.com/?discount=8DAYSPB"
+    autoApply: "https://www.pickleluxe.com/?discount=8DAYSPB",
+    logo: "/images/pickleluxe.webp"
   },
   {
     name: "CourtGirl",
@@ -25,20 +27,23 @@ function Brands() {
     descript: "Pickleball, golf, and tennis pouches, bags, paddles, and more",
     description: "Use code for 20% off",
     url: "https://www.courtgirl.com",
-    autoApply: "https://www.courtgirl.com/discount/8DAYSCG"
+    autoApply: "https://www.courtgirl.com/discount/8DAYSCG",
+    logo: "/images/cg.png"
   },
   {
     name: "Corporate Events",
     code: null,
+    descript: null,
     description:
       "Contact Yvonne directly for up to 50% off corporate or country club bulk orders.",
-    url: null
+    url: null, 
+    logo: null
   }
 ];
 
   return (
     <div className="brands-container">
-      <h1>Brand Partnerships</h1>
+      <h2>Brand Partnerships</h2>
       <div className="brands-grid">
         {brandData.map((brand, index) => (
           <div key={index} className={`brand-card ${brand.name.toLowerCase()}`}>
@@ -47,6 +52,7 @@ function Brands() {
             <p>{brand.description}</p>
             {brand.code && <p className="discount-code">Code: {brand.code}</p>}
 
+            {brand.logo && <img src={brand.logo} alt={brand.name} className="brand-logo" />}
             {brand.url && (
             <a href={brand.autoApply || brand.url} target="_blank" rel="noopener noreferrer" className="brand-link" >
             Shop {brand.name}

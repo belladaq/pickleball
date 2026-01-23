@@ -6,7 +6,6 @@
 .site-header {
   width: 100%;
   background-color: #d7e1eb;
-  border-bottom: 2px solid #1f2933;
   text-align: center;
 }
 
@@ -24,7 +23,8 @@
 .navigation {
   width: 100%;
   background-color: #263443;
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 5px solid #ffffff;
+  border-top: 5px solid #ffffff;
 }
 
 .navigation ul {
@@ -41,9 +41,51 @@
   cursor: pointer;
 }
 
-.contact, .intro {
+.contact {
+  text-align: center;  
   padding: 20px;
+  background-color: #d7e1eb;
+}
+
+.contact h2 {
+  margin: 0 auto; 
+  padding: 0.6em;
+}
+
+.intro {
+  max-width: 900px;
+  margin: 0 auto;
   text-align: center;
+  padding: 1em;
+  padding-bottom: 3em;
+}
+
+.intro h2 {
+  margin: 0 auto;
+  padding: 0.3em;
+}
+
+.main, .data {
+  background-color: #d7e1eb;
+  border-bottom: 5px solid #ffffff;
+}
+
+.data { border-top: 5px solid #ffffff;}
+
+.data h2 {
+  margin: 0 auto; 
+  padding: 0.6em;
+}
+
+.intro a {
+  color: #263443;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.intro a:hover {
+  color: #1f2933;
+  text-decoration: underline;
 }
 
 .gallery {
