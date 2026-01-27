@@ -13,15 +13,18 @@ JavaScript
 
 src/  
 ├── components/  
-│ ├── tournaments.jsx # Displays tournament results and competitive history  
-│ ├── scroll.jsx # Handles scroll-to-section behavior for anchor links  
+│ ├── brands.jsx              # Brand partnerships section  
+│ ├── Brands.css              # Styles for brand components  
+│ ├── tournaments.jsx         # Tournament results page  
+│ ├── TournamentCard.css      # Styles for individual tournament cards  
+│ └── scroll.jsx              # Scroll-to-section handling  
 │  
 ├── pages/  
-│ └── home.jsx # Main landing page with About, Partnerships, and Contact sections  
+│ └── home.jsx                # Main landing page with About, Partnerships, and Contact sections  
 │  
-├── App.jsx # Root component with routing and navigation  
-├── App.css # Global styles  
-├── main.jsx # React entry point  
+├── App.jsx                   # Root component with routing and navigation  
+├── App.css                   # Global styles  
+├── main.jsx                  # React entry point  
 
 # Routing & Navigation
 
