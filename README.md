@@ -4,42 +4,42 @@ This project is a personal website built with React to showcase Yvonne D'Aquino�
 
 # Tech Stack
 
-React (with functional components & hooks)
-React Router DOM for client-side routing
-HTML5/ CSS3 for layout and styling
-JavaScript
+React (with functional components & hooks)  
+React Router DOM for client-side routing  
+HTML5/ CSS3 for layout and styling  
+JavaScript  
 
 # Project Structure
 
-src/
-├── components/
-│ ├── tournaments.jsx # Displays tournament results and competitive history
-│ ├── scroll.jsx # Handles scroll-to-section behavior for anchor links
-│
-├── pages/
-│ └── home.jsx # Main landing page with About, Partnerships, and Contact sections
-│
-├── App.jsx # Root component with routing and navigation
-├── App.css # Global styles
-├── main.jsx # React entry point
+src/  
+├── components/  
+│ ├── tournaments.jsx # Displays tournament results and competitive history  
+│ ├── scroll.jsx # Handles scroll-to-section behavior for anchor links  
+│  
+├── pages/  
+│ └── home.jsx # Main landing page with About, Partnerships, and Contact sections  
+│  
+├── App.jsx # Root component with routing and navigation  
+├── App.css # Global styles  
+├── main.jsx # React entry point  
 
 # Routing & Navigation
 
-The app uses React Router to manage navigation:
+The app uses React Router to manage navigation:  
 
-/ → Home Page
-/tournaments → Tournament Results Page
-
-Navigation links allow users to either:
-
-Route to a new page (Tournament Results), or
-Smooth-scroll to specific sections on the Home page (About, Brand Partnerships, Contact).
-
+/ → Home Page  
+/tournaments → Tournament Results Page  
+  
+Navigation links allow users to either:  
+  
+Route to a new page (Tournament Results), or  
+Smooth-scroll to specific sections on the Home page (About, Brand Partnerships, Contact).  
+  
 The Scroll component ensures that hash-based navigation (e.g. /#intro) scrolls correctly when navigating between routes.
 
 # Running Locally
 
-npm install
+npm install  
 npm run dev
 
 # Purpose
