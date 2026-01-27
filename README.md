@@ -1,16 +1,47 @@
-# React + Vite
+# Yvonne D'Aquino - Professional Pickleball Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a personal website built with React to showcase Yvonne D'Aquino’s professional pickleball career, including her background, brand partnerships, tournament results, and contact information. The site is designed to be clean, responsive, and easy to navigate, serving both fans and potential sponsors or partners.
 
-Currently, two official plugins are available:
+# Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React (with functional components & hooks)
+React Router DOM for client-side routing
+HTML5/ CSS3 for layout and styling
+JavaScript
 
-## React Compiler
+# Project Structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+src/
+├── components/
+│ ├── tournaments.jsx # Displays tournament results and competitive history
+│ ├── scroll.jsx # Handles scroll-to-section behavior for anchor links
+│
+├── pages/
+│ └── home.jsx # Main landing page with About, Partnerships, and Contact sections
+│
+├── App.jsx # Root component with routing and navigation
+├── App.css # Global styles
+├── main.jsx # React entry point
 
-## Expanding the ESLint configuration
+# Routing & Navigation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The app uses React Router to manage navigation:
+
+/ → Home Page
+/tournaments → Tournament Results Page
+
+Navigation links allow users to either:
+
+Route to a new page (Tournament Results), or
+Smooth-scroll to specific sections on the Home page (About, Brand Partnerships, Contact).
+
+The Scroll component ensures that hash-based navigation (e.g. /#intro) scrolls correctly when navigating between routes.
+
+# Running Locally
+
+npm install
+npm run dev
+
+# Purpose
+
+This project serves as a clean, professional online presence for an athlete, coaches, fans, and potential brand partners.
